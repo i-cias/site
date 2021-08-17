@@ -153,9 +153,9 @@ textarea:-ms-input-placeholder {
 
 
 @media (max-width: 768px) {
-	#banner-text { margin: 25px !important; }
-	#banner-text>h2 { font-size: 1rem; margin-bottom: 15px; }
-	#banner-text>h3 { font-size: .85rem; margin-bottom: 10px; }
+	#banner-text { margin: 20px 40px !important; }
+	#banner-text>h2 { font-size: 1rem; margin-bottom: 8px; }
+	#banner-text>h3 { font-size: .85rem; margin-bottom: 7px; }
 	#banner-text>h4 { font-size: .75rem; }
 }
 
